@@ -159,6 +159,7 @@
 - [Israeli Bitcoin Association](https://bitcoin.org.il/files/IBA_Statement_Segwit2x.pdf)
 - [laBITconf](https://twitter.com/laBITconf/status/918961053186318336)
 - [Seoul Bitcoin Meetup](https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976#---0-201) (meetup group with more than 1600 members)
+- [Bitcoin User Group Meetup / Inland Empire](http://btcmeetup.webstarts.com/no2x.html) (meetup group with more than 95 members)
 
 ### Need clarification:
 
